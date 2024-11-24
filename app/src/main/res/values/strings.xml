@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="player1_score">Jogador 1: %1$d</string>
+    <string name="player2_score">Jogador 2: %1$d</string>
+    <string name="draws">Empates: %1$d</string>
+    <string name="player1_wins">Jogador 1 venceu!</string>
+    <string name="player2_wins">Jogador 2 venceu!</string>
+    <string name="draw">Empate!</string>
+</resources>
